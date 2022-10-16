@@ -1,4 +1,4 @@
-"# BankistWebsite"
+# BankistWebsite
 
 ## <h2 align="center">Front end application 💻</h2>
 
@@ -7,7 +7,7 @@
 # Application flowchart
 
 <h1 align="center">
-    <img src="./BankistAPP/Bankist-flowchart.png"/>
+    <img src="/BankistAPP/Bankist-flowchart.png"/>
 </h1>
 
 # Important
